@@ -1,16 +1,25 @@
-# ID 2671507 - ABDUL KHALED ARAFAT
+# ID 2671507 — Abdul Khaled Arafat
 
 ## Artificial Intelligence in Healthcare (ICT 6513)
 
-- Coding Assignments: [Coding Assignments](Coding%20Assignments/)
+---
 
-	- Assignment 1: [Coding_Assignment_01.ipynb](Coding%20Assignments/Coding_Assignment_01.ipynb)
+### Quick Access
 
-	- Assignment 2: [Coding_Assignment_02.ipynb](Coding%20Assignments/Coding_Assignment_02.ipynb)
+- Coding Assignments
+	- Assignment 1 — [Coding_Assignment_01.ipynb](Coding%20Assignments/Coding_Assignment_01.ipynb)
 
-	- Assignment 3: [Coding_Assignment_03.ipynb](Coding%20Assignments/Coding_Assignment_03.ipynb)
+	- Assignment 2 — [Coding_Assignment_02.ipynb](Coding%20Assignments/Coding_Assignment_02.ipynb)
 
-- Paper Review Task 1: [Paper Review Task 1](Paper%20Review%20Task%201/)
+	- Assignment 3 — [Coding_Assignment_03.ipynb](Coding%20Assignments/Coding_Assignment_03.ipynb)
 
-- Paper Review Task 2: [Paper Review Task 2](Paper%20Review%20Task%202/)
+- Paper Reviews
+
+	- [Paper Review Task 1](Paper%20Review%20Task%201/)
+
+	- [Paper Review Task 2](Paper%20Review%20Task%202/)
+
+---
+
+How to use: click the links above to open notebooks or folders directly.
 
